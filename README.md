@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaykishan Wardani</h1>
 <h3 align="center">🎓 A passionate **17-year-old developer** from Mumbai, India 💻 Currently learning **Full Stack Web Development** with a focus on the **MERN Stack** 📚 will diving deep into **Data Structures & Algorithms** 🚀 I love building real-world projects and learning by doing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykishan12-cs&label=Profile%20views&color=0e75b6&style=flat" alt="jaykishan12-cs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykishan12-cs" alt="jaykishan12-cs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jaykishan12_cs" target="blank"><img src="https://img.shields.io/twitter/follow/jaykishan12_cs?logo=twitter&style=for-the-badge" alt="jaykishan12_cs" /></a> </p>
-
 - 🔭 I’m currently working on **AirBnb full stack clone**
 
 - 🌱 I’m currently learning **MERN stack**
@@ -16,6 +10,12 @@
 - 📫 How to reach me **jaykishanwardani1@gmail.com**
 
 - ⚡ Fun fact **I think I’m funny. My code disagrees . I once fixed a bug by doing nothing. Still don’t know how.**
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykishan12-cs&label=Profile%20views&color=0e75b6&style=flat" alt="jaykishan12-cs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykishan12-cs" alt="jaykishan12-cs" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jaykishan12_cs" target="blank"><img src="https://img.shields.io/twitter/follow/jaykishan12_cs?logo=twitter&style=for-the-badge" alt="jaykishan12_cs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
