@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaykishan Wardani</h1>
-<h3 align="center">🎓 A passionate **17-year-old developer** from Mumbai, India 💻 Currently learning **Full Stack Web Development** with a focus on the **MERN Stack** 📚 will diving deep into **Data Structures & Algorithms** 🚀 I love building real-world projects and learning by doing</h3>
+<h2 align="center">Hi 👋, I'm Jaykishan Wardani</h2>
+<h4 align="center">🎓 A passionate **17-year-old developer** from Mumbai, India 💻 Currently learning **Full Stack Web Development** with a focus on the **MERN Stack** 📚 will diving deep into **Data Structures & Algorithms** 🚀 I love building real-world projects and learning by doing</h4>
 
 - 🔭 I’m currently working on **AirBnb full stack clone**
 
